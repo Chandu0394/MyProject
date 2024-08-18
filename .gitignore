@@ -1,10 +1,1 @@
-# Python compiled files
-__pycache__/
-*.pyc
-
-# Virtual environment directories
-venv/
-env/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+"*.pyc\n__pycache__/\nvenv/\n.ipynb_checkpoints/\n*.json" 
